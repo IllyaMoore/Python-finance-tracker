@@ -1,0 +1,7 @@
+idnum,amount,date,category,description,account_id
+1,5000.0,2024-12-05 16:44:50,Needs,stolen,1
+1,666.0,2024-12-05 16:59:12,Needs,dsf,1
+1,222.0,2024-12-05 17:00:11,Needs,dfs,1
+1,123.0,2024-12-05 17:15:20,Needs,123,1
+1,123.0,2024-12-05 19:26:45,Needs,dfs,1
+1,4243.0,2024-12-05 19:28:27,Needs,dfs,1

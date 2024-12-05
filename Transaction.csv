@@ -1,3 +1,11 @@
 idnum,amount,date,category,description,account_id
-1,1000.0,2024-12-05 00:35:51,Games,BloodBorne 2,1
-2,2500.0,2024-12-05 01:05:25,Food and consumables,Food,1
+1,2500.0,2024-12-05 14:37:57,Health and Wellness,BloodBorne2,1
+1,3000.0,2024-12-05 14:42:13,Needs,Food,1
+1,1000.0,2024-12-05 14:46:26,Needs,test,1
+1,1000.0,2024-12-05 14:56:37,Needs,fppd,1
+1,2000.0,2024-12-05 16:57:44,Needs,food ,1
+1,123.0,2024-12-05 17:00:42,Needs,sdf,1
+1,123.0,2024-12-05 17:01:28,Needs,sdf,1
+1,1000.0,2024-12-05 17:12:38,Needs,sdf,1
+1,1000.0,2024-12-05 17:15:12,Needs,dfsd,1
+1,123.0,2024-12-05 19:28:17,Needs,dsfsd,1
